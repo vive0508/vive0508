@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 경기대학교 국제관계학과 졸업  
 도와세움 디지털 마케팅 에센셜 수료   
 K-디지털 크래딧 빅데이터 분석 교육과정 수료   
-제로베이스 데이터사이언스 스쿨   
 헬로, 핀테크 교육과정
 
 ## :eyes: Experience
