@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 경기대학교 국제관계학과 졸업  
 도와세움 디지털 마케팅 에센셜 수료   
 K-디지털 크래딧 빅데이터 분석 교육과정 수료   
-헬로, 핀테크 교육과정
+SQL 데이터 분석 캠프
 
 ## :eyes: Experience
 제주 반자연인 온라인 스토어 운영   
