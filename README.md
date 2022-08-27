@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 도와세움 디지털 마케팅 에센셜 수료   
 K-디지털 크래딧 빅데이터 분석 교육과정 수료   
 SQL 데이터 분석 캠프 입문반, 실전반 수료   
+플랜잇 Tableau 데이터 스테이션-Explorer 과정 수료
 
 ## :eyes: Experience
 제주 반자연인 온라인 스토어 운영   
